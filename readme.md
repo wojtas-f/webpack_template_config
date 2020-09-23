@@ -1,4 +1,4 @@
-# Webpack configuration template
+# Webpack configuration template with jest testing
 
 ## Installation
 
