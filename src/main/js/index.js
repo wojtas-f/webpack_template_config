@@ -1,5 +1,7 @@
-import "../css/main.scss"
+import '../css/main.scss'
 
 import { helloWorld } from './world'
 
-helloWorld()
+export const start = () => {
+	return helloWorld()
+}
