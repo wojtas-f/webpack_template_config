@@ -1,5 +1,7 @@
 # Webpack configuration template
 
+Basic webpack template
+
 ## Installation
 
 ```bash
